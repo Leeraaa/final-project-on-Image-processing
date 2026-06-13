@@ -1,6 +1,6 @@
-# final-project-on-Image-processing
+# Better read the file Image Stitching - 2 !!!
 
-### Better read the file Image Stitching - 2 !!!
+# final-project-on-Image-processing
 
 # Image Stitching Using Classical Computer Vision Methods
 
