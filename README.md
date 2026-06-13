@@ -1,4 +1,4 @@
-# Better read the file &Image Stitching - 2.docx& !!!
+# Better read the file Image Stitching - 2.docx !!!
 
 # final-project-on-Image-processing
 
